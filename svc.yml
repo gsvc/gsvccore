@@ -1,0 +1,5 @@
+something
+apiversion:v1
+kind:
+  spec:
+    metadata:anything
