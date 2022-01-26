@@ -1,4 +1,8 @@
 (pipelenses)
 stage ( unstaged to staged and from staged to local repo anf rom local repo to remote repo 
 (/pipelenses)
+<<<<<<< HEAD
 (unstaged)
+=======
+hello world
+>>>>>>> 2574e1d826a0f9d367f13feaa6053b1583ca179c
